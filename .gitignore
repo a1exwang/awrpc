@@ -1,0 +1,35 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+/build/vs2015/awprc/Debug
+/build/vs2015/awprc/Release
+/build/vs2015/awprc/*.sdf
+/build/vs2015/test/Debug
+/build/vs2015/test/Release
+/build/vs2015/test/*.sdf
